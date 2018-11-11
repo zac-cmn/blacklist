@@ -1,1 +1,2 @@
 checkip.dyndns.com
+ssl.gstatic.com
